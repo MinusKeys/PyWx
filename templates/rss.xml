@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+
+<item>
+<title>Article 2</title>
+<link>example.com/2</link>
+<guid>example.com/2</guid>
+<pubDate>Tue, 26 Nov 2013 12:15:12 GMT</pubDate>
+<description>My second article.</description>
+</item>
+
+</channel>
+</rss>
